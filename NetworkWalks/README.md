@@ -16,7 +16,7 @@
 [Click Here to View pdf ](My Locked PDF1(for NW Tools Lab WK3-PM2).pdf)
 - Copy the hash value.
   
-![hash calculator Screenshot](hash calculator(networkwalks).png)
+![hash calculator Screenshot](hash_calculator.png)
 
 ### Step 3: Use the Password Cracker
 - Navigate to the Password Cracker section.
@@ -24,7 +24,7 @@
   https://networkwalks.com/password-cracker/
 - enter the hash value then start the attack
   
-![Password cracker Screenshot](password cracker.png)
+![Password cracker Screenshot](password_cracker.png)
 
 ### Step 4: Analyze the Results
 - Observe the output provided by the website.
@@ -32,14 +32,3 @@
   
 ![flag Screenshot](flag.png)
 
-
-
-## ⚠️ Disclaimer
-
-This repository is strictly intended for educational purposes and authorized security testing.
-
-Do not use these tools against accounts, systems, networks, or password hashes without explicit permission. The author is not responsible for misuse of the information provided in this repository.
-
-## 👨‍💻 Author
-
-Created for 
