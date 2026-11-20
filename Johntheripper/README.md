@@ -41,24 +41,47 @@ Users can download the PDF practice files available in this repository and follo
 
 ## 📄 My locked1 pdf
 [📥 Click Here to View PDF](My_Locked1.pdf)
-hash value 
+
+Hash value and Password 
 ![hash value ](password1.png)
-password generator
+
+Flag
+
+
 ![flag1 value](flag1.png)
+
+
+
 
 
 ## 📄 My locked2 pdf
 [📥 Click Here to View PDF](My_Locked2.pdf)
-hash value 
+
+Hash value and Password 
 ![hash value ](password2.png)
-password generator
-![flag1 value](flag2.png)
+
+Flag
+
+
+![flag2 value](flag2.png)
+
+
+
+
 
 ## 📄 My locked1 pdf
 [📥 Click Here to View PDF](My_Locked3.pdf)
+
 hash value 
 ![hash value ](password3.png)
-password generator
-![flag1 value](flag3.png)
+
+
+Flag 
+
+
+![flag3 value](flag3.png)
+
+
+
 
 
